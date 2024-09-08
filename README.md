@@ -1,6 +1,5 @@
 # FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA
-``ENGENHARIA DE COMPUTAÇÃO`` 
-## Checkpoint 2 - 5ECS - Segundo Semestre 2024
+``ENGENHARIA DE COMPUTAÇÃO | Checkpoint 2 | 5ECS | Segundo Semestre 2024`` 
  
 ## RTOS (Sistemas de Tempo Real)
 * Prof. Clauber Cesario de Souza
