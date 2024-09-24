@@ -1,18 +1,26 @@
-# CHECKPOINTs 1 & 2 RTOS -> Contador Intercalado
-``FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA | 5ECS | ENGENHARIA DA COMPUTAÇÃO | Segundo Semestre 2024``
- 
-## RTOS (Sistemas de Tempo Real)
-* Prof. Clauber Cesario de Souza
+# CHECKPOINTs 1 & 2 Sistemas de Tempo Real
+`FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA | ENGENHARIA DA COMPUTAÇÃO | 5ECS`  
+`Prof. Clauber Cesario de Souza | Segundo Semestre 2024`    
 
-## 5 ECS
-* Diego Caruba do Carmo (RM 84197)
-* Lucas Pereira de Oliveira (RM 86419)
-* Matheus Henrique Borges dos Santos (RM 86417)
-* Vitor Barbosa de Lima Santos (RM 84902)
-* Victor Hugo de Aguillar (RM 84250)
+## Checkpoint_1
+### [CKP_1 APP](/Checkpoint_1/)  
+### [Documentação](https://1drv.ms/w/c/9a5e04166f216283/EUDuyNgmY7pItBBnl2c7xG8BUm9Lx-kga8gMyk11ovhozQ?e=mEBZr5)
 
-### LINK DA DOCUMENTAÇÃO
-* CKP_1: https://1drv.ms/w/c/9a5e04166f216283/ESoi98FwroxHm2CxZ8k741EBT8NUY6TprXW_HHx1eYPTog?e=rpQ84K
+## Checkpoint_2
+### [CKP_2 APP](/Checkpoint_2/)  
+### [Documentação](https://1drv.ms/w/c/9a5e04166f216283/ESoi98FwroxHm2CxZ8k741EBT8NUY6TprXW_HHx1eYPTog?e=g5c1Aa)
 
-* CKP_2: https://onedrive.live.com/personal/9a5e04166f216283/_layouts/15/Doc.aspx?resid=9A5E04166F216283!sd8c8ee40632648bab4106797673bc46f&cid=9a5e04166f216283&migratedtospo=true&app=Word
-
+## Tree  
+[📦counter_with_arduino_and_7_segments_display](/README.md)  
+ ┣ [📂Checkpoint_1](/Checkpoint_1/)  
+ ┃ ┣ [📜app.ino](/Checkpoint_1/app.ino)  
+ ┃ ┣ [📜diagram.json](/Checkpoint_1/diagram.json)   
+ ┃ ┗ [📜libraries.txt](/Checkpoint_1/libraries.txt)   
+ ┣ [📂Checkpoint_2](/Checkpoint_2/)     
+ ┃ ┣ [📜app.ino](/Checkpoint_2/app.ino)   
+ ┃ ┣ [📜diagram.json](/Checkpoint_2/)     
+ ┃ ┗ [📜libraries.txt](/Checkpoint_2/libraries.txt)     
+ ┣ [📜.gitIgnore](/\.gitIgnore)     
+ ┗ [📜README.md](/README.md)     
+---
+*Checkpoints desenvolvidos para a materia de Sistemas de Tempo Real no quinto de ano de Engenharia da Computação da FIAP (FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA)*

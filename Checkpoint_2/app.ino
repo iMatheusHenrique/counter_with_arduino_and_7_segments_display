@@ -1,11 +1,10 @@
 #include <TimerOne.h>
 
-int segmentPins[] = {2, 3, 4, 5, 6, 7, 8}; // A, B, C, D, E, F, G
+int segmentPins[] = {2, 3, 4, 5, 6, 7, 8};
 int digit = 0;                             // Contador de dígitos
 bool fastInterval = true;                  // Controla o intervalo entre 0,5s e 2s
 bool running = true;                       // Controla se o contador está rodando ou não
 
-// funcao para mostrar os números de 0 a 9 no display de 7 segmentos
 void showNumber(int num) {
   switch (num) {
     case 0:
