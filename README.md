@@ -1,5 +1,5 @@
-# CHECKPOINT 2 RTOS -> Contador Intercalado
-``FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA | 5ECS | ENGENHARIA DE COMPUTAÇÃO | Segundo Semestre 2024`` 
+# CHECKPOINTs 1 & 2 RTOS -> Contador Intercalado
+``FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA | 5ECS | ENGENHARIA DA COMPUTAÇÃO | Segundo Semestre 2024``
  
 ## RTOS (Sistemas de Tempo Real)
 * Prof. Clauber Cesario de Souza
