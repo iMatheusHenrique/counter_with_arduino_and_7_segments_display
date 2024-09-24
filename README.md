@@ -10,7 +10,7 @@
 ### [CKP_2 APP](/Checkpoint_2/)  
 ### [Documentação](https://1drv.ms/w/c/9a5e04166f216283/ESoi98FwroxHm2CxZ8k741EBT8NUY6TprXW_HHx1eYPTog?e=g5c1Aa)
 
-## Tree  
+## Navegação Checkpoints  
 [📦counter_with_arduino_and_7_segments_display](/README.md)  
  ┣ [📂Checkpoint_1](/Checkpoint_1/)  
  ┃ ┣ [📜app.ino](/Checkpoint_1/app.ino)  
@@ -23,4 +23,5 @@
  ┣ [📜.gitIgnore](/\.gitIgnore)     
  ┗ [📜README.md](/README.md)     
 ---
-*Checkpoints desenvolvidos para a materia de Sistemas de Tempo Real no quinto de ano de Engenharia da Computação da FIAP (FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA)*
+``Checkpoints desenvolvidos para a materia de Sistemas de Tempo Real no quinto de ano de Engenharia da Computação da FIAP (FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA)``  
+`São Paulo, SP, 2024-09`
