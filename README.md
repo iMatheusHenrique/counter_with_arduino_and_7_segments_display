@@ -10,7 +10,7 @@
 ### [CKP_2 APP](/Checkpoint_2/)  
 ### [Documentação](https://1drv.ms/w/c/9a5e04166f216283/ESoi98FwroxHm2CxZ8k741EBT8NUY6TprXW_HHx1eYPTog?e=g5c1Aa)
 
-## Navegação Checkpoints  
+## Navegação pelo Projeto  
 [📦counter_with_arduino_and_7_segments_display](/README.md)  
  ┣ [📂Checkpoint_1](/Checkpoint_1/)  
  ┃ ┣ [📜app.ino](/Checkpoint_1/app.ino)  
