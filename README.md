@@ -10,7 +10,7 @@
  ┃ ┣ [📜app.ino](/Checkpoint_1/app.ino)  
  ┃ ┣ [📜diagram.json](/Checkpoint_1/diagram.json)   
  ┃ ┗ [📜libraries.txt](/Checkpoint_1/libraries.txt)  
- ┃ ┗ [🔗Documentação](https://1drv.ms/w/c/9a5e04166f216283/EUDuyNgmY7pItBBnl2c7xG8BUm9Lx-kga8gMyk11ovhozQ?e=mEBZr5){:target="_blank"}       
+ ┃ ┗ [🔗Documentação](https://1drv.ms/w/c/9a5e04166f216283/EUDuyNgmY7pItBBnl2c7xG8BUm9Lx-kga8gMyk11ovhozQ?e=mEBZr5)       
  ┃ ┗ [🔗Vídeo Simulação](https://drive.google.com/file/d/1FxPxD_-bIYpDkQexwF9b6WoZlwtmjpJE/view?usp=sharing)     
  ┃ ┗ [🔗Vídeo Físico](PREENCHER)     
  ┃ ┗ [🔗Circuito](https://wokwi.com/projects/409333311709327361)    
