@@ -33,6 +33,7 @@
 ### <a href="https://drive.google.com/file/d/1FxPxD_-bIYpDkQexwF9b6WoZlwtmjpJE/view?usp=sharing" target="_blank">Vídeo Simulação</a>
 ### <a href="PREENCHER" target="_blank">Vídeo Físico</a>
 ### <a href="https://wokwi.com/projects/409333311709327361" target="_blank">Circuito</a>
+---
 
 ## [Checkpoint_2](https://1drv.ms/w/c/9a5e04166f216283/ESoi98FwroxHm2CxZ8k741EBT8NUY6TprXW_HHx1eYPTog?e=g5c1Aa)
 ### [CKP_2 APP](/Checkpoint_2/)  
