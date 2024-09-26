@@ -1,4 +1,4 @@
-# CHECKPOINTs 1 & 2 Sistemas de Tempo Real
+# CHECKPOINTs 1 & 2 | Sistemas de Tempo Real
 `FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA | ENGENHARIA DA COMPUTAÇÃO | 5ECS`  
 `Prof. Clauber Cesario de Souza | Segundo Semestre 2024`    
 
