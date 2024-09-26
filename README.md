@@ -1,6 +1,6 @@
 # CHECKPOINTs 1 & 2 | Sistemas de Tempo Real
 `FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA | ENGENHARIA DA COMPUTAÇÃO | 5ECS`  
-`Prof. Clauber Cesario de Souza | Segundo Semestre 2024`    
+`Prof. Clauber Cesario de Souza | 2° Semestre de 2024`    
 
 ---
 
@@ -43,5 +43,5 @@
 ### [Circuito](https://wokwi.com/projects/409942316146904065)
 
 ---
-``Checkpoints desenvolvidos para a materia de Sistemas de Tempo Real no quinto de ano de Engenharia da Computação da FIAP (FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA)``  
+``Checkpoints desenvolvidos para a materia de Sistemas de Tempo Real no 5° ano de Engenharia da Computação da FIAP (FACULDADE DE INFORMÁTICA E ADMINISTRAÇÃO PAULISTA)``  
 `São Paulo, SP, 2024-09`
